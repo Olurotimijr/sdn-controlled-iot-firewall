@@ -1,0 +1,6 @@
+ryu==4.34
+eventlet==0.33.0
+setuptools==65.5.1
+python3-pip
+Wireshark (external tool, no pip install)
+Ettercap (external tool, no pip install)
